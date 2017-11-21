@@ -1,0 +1,23 @@
+.container {
+  width: 400px;
+  margin: auto;
+  background: #eee;
+  padding: 10px; }
+
+.box {
+  width: 100px;
+  color: red;
+  background: #ccc;
+  padding: 10px;
+  margin: 10px auto; }
+
+.card {
+  width: 200px;
+  background: #eee;
+  padding: 10px;
+  margin: 10px auto; }
+.css-btn{
+  background-color: green;
+  padding: 10px;
+  color: red;
+}
